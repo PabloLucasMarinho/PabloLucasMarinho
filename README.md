@@ -2,8 +2,6 @@
 
 # Hi 👋, I'm Pablo Marinho
 
-### Junior full-stack developer
-
 </div>
 
 ## 🚀 About Me
