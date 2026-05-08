@@ -4,8 +4,6 @@
 
 ### Junior full-stack developer
 
-<img src="https://github.com/PabloLucasMarinho/PabloLucasMarinho/blob/main/assets/20251207_185042_1.jpg?raw=true" alt="Pablo Marinho" width="150" height="150" style="border-radius: 50%;" />
-
 </div>
 
 ## 🚀 About Me
@@ -69,16 +67,6 @@ Minha stack principal inclui PHP, Laravel, MySQL, Vue.js e Docker, e estou sempr
 ### 💻 DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;&nbsp;&nbsp;![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PabloLucasMarinho&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
-
-</div>
-
----
 
 <div align="center">
 
